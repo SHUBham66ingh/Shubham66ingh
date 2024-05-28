@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm Shubham singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham66ingh&label=Profile%20views&color=0e75b6&style=flat" alt="shubham66ingh" /> </p>
 
